@@ -2,3 +2,12 @@ h1 {
   text-align: center;
   color: blue;
 }
+h2 {
+  text-align: center;
+  color: purple;
+}
+.contact-btn {
+  width: 200px;
+  display: block;
+  margin: 0 auto;
+}
